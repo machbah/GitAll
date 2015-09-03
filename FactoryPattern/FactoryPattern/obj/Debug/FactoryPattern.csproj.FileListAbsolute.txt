@@ -1,0 +1,4 @@
+D:\OP\FactoryPattern\FactoryPattern\bin\FactoryPattern.dll
+D:\OP\FactoryPattern\FactoryPattern\bin\FactoryPattern.pdb
+D:\OP\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.dll
+D:\OP\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
